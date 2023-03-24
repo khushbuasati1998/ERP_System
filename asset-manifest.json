@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ERP_System/static/css/main.6efccfe7.css",
+    "main.js": "/ERP_System/static/js/main.6b49135d.js",
+    "static/js/787.76a18537.chunk.js": "/ERP_System/static/js/787.76a18537.chunk.js",
+    "static/media/product3.png": "/ERP_System/static/media/product3.a63af9dfb7f416ac744c.png",
+    "static/media/product4.jpg": "/ERP_System/static/media/product4.c53b41201b09bd5e0556.jpg",
+    "static/media/product2.jpg": "/ERP_System/static/media/product2.48bde2ecf219b20630f3.jpg",
+    "static/media/post.jpg": "/ERP_System/static/media/post.3bf68ad9fa015e734fc9.jpg",
+    "static/media/logo.png": "/ERP_System/static/media/logo.0abfb73b4353f86cbbee.png",
+    "static/media/product1.jpg": "/ERP_System/static/media/product1.daf589d6b96af7990c33.jpg",
+    "index.html": "/ERP_System/index.html",
+    "main.6efccfe7.css.map": "/ERP_System/static/css/main.6efccfe7.css.map",
+    "main.6b49135d.js.map": "/ERP_System/static/js/main.6b49135d.js.map",
+    "787.76a18537.chunk.js.map": "/ERP_System/static/js/787.76a18537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6efccfe7.css",
+    "static/js/main.6b49135d.js"
+  ]
+}
